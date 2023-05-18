@@ -1,0 +1,6 @@
+// apikey = '98ce1b55b8fa4537bfe3f6bbb0a18d36'
+// baseUrl = 'https://newsapi.org/'
+// method = 'v2/top-headlines'
+// query = '?country=eg&category=business&apiKey=98ce1b55b8fa4537bfe3f6bbb0a18d36'
+//method = 'v2/everything'
+//apiKey = '1748d93580f74a4698be000f003b5df8'
